@@ -30,7 +30,7 @@ optimisation-panier/
 
 ```bash
 git clone <url-du-repo>
-cd optimisation-panier
+cd optimisation_panier
 ```
 
 ### 2. Créer un environnement virtuel
